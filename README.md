@@ -108,7 +108,10 @@ As a **self-taught Senior IT Consultant & Full-Stack Developer**, I find my crea
 
 ### :zap: CodersRank.io Stats ❤️ 
 
-[![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=4030034)](https://stackoverflow.com/users/4030034/scryba)
+[![scryba's CodersRank summary](https://cr-widget.azurewebsites.net/api/widget/summary/scryba)](https://profile.codersrank.io/user/scryba)
+
+[![scryba's CodersRank summary](https://cr-widget.azurewebsites.net/api/widget/summary/scryba)](https://profile.codersrank.io/user/scryba)
+
 
 <hr>
 
