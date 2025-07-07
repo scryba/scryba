@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michael K. Laweh</h1>
 <h3 align="center">Senior IT Consultant & Full-Stack Developer. Architecting & implementing secure, efficient IT solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scryba&label=Profile%20views&color=0e75b6&style=flat" alt="scryba" /> 
-
-<img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything"> 
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Grunt status">
+<p align="left">  
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-michael.laweitech.com-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://michael.laweitech.com/) <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything"> <img src="https://komarev.com/ghpvc/?username=scryba&label=Profile%20views&color=0e75b6&style=flat" alt="scryba" /> 
 
 </p>
 
@@ -125,4 +123,5 @@ As a **self-taught Senior IT Consultant & Full-Stack Developer**, I find my crea
 
 <hr>
 
-
+ <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Grunt status">
+ 
