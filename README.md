@@ -23,9 +23,17 @@
 
 - 📄 Know about my experiences [https://michael.laweitech.com/](https://michael.laweitech.com/)
 
-### Blogs posts
+### Some of my Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [Powering Your Progress: Building Robust Solutions with Laravel](https://michael.laweitech.com/powering-your-progress-building-robust-solutions-with-laravel)
+- [Develop Faster, Collaborate Seamlessly: How I Supercharge Web Development with DDEV](https://michael.laweitech.com/develop-faster-collaborate-seamlessly-how-i-supercharge-web-development-with-ddev)
+- [My Battle with Ransomware: How I Recovered 70% of My Data and What It Taught Me About Security
+](https://michael.laweitech.com/my-battle-with-ransomware-how-i-recovered-70-of-my-data-and-what-it-taught-me-about-security)
+- [Precision Deployment: How I Ensure Zero-Downtime Launches on Dedicated Servers & VPS](https://michael.laweitech.com/precision-deployment-how-i-ensure-zero-downtime-launches-on-dedicated-servers-vps)
+- [From Concept to Code: Bringing Your Vision to Life with Michael K. Laweh](https://michael.laweitech.com/from-concept-to-code-bringing-your-vision-to-life-with-michael-k-laweh)
 <!-- BLOG-POST-LIST:END -->
+
+▶ [...click here for more blog articles](https://michael.laweitech.com/blog)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
