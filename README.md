@@ -3,7 +3,7 @@
 
 <p align="left">  
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-michael.laweitech.com-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://michael.laweitech.com/) <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything"> <img src="https://komarev.com/ghpvc/?username=scryba&label=Profile%20views&color=0e75b6&style=flat" alt="scryba" /> 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-michael.laweitech.com-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://michael.laweitech.com/) <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything"> 
 
 </p>
 
