@@ -3,43 +3,43 @@
 
 <p align="left">  
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-michael.laweitech.com-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://michael.laweitech.com/) <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything"> 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-klytron.com-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://www.klytron.com/) <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything"> 
 
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scryba" alt="scryba" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=klytron" alt="klytron" /></a> </p>
 
-- 🔭 I’m currently working on [LAWEITECH WEB](https://michael.laweitech.com/projects/laweitech-platform-development-management)
+- 🔭 I’m currently working on [LAWEITECH WEB](https://www.klytron.com/projects/laweitech-platform-development-management)
 
 - 🌱 I’m currently learning **Laravel, Vue, Django, Tailwind Css, TALL Stack, e.t.c**
 
-- 👯 Built and Managing [SHYNDORCA - FULL-STACK E-COMMERCE & BRANDING INITIATIVE](https://michael.laweitech.com/projects/shyndorca-a-full-stack-e-commerce-branding-initiative)
+- 👯 Built and Managing [SHYNDORCA - FULL-STACK E-COMMERCE & BRANDING INITIATIVE](https://www.klytron.com/projects/shyndorca-a-full-stack-e-commerce-branding-initiative)
 
-- 🤝 Another Project of mine [SCRYBA - GLOBAL SMS PLATFORM](https://michael.laweitech.com/projects/scrybasms-global-sms-messaging-platform)
+- 🤝 Another Project of mine [SCRYBA - GLOBAL SMS PLATFORM](https://www.klytron.com/projects/scrybasms-global-sms-messaging-platform)
 
-- 👨‍💻 All of my projects are available at [https://michael.laweitech.com/](https://michael.laweitech.com/)
+- 👨‍💻 All of my projects are available at [https://www.klytron.com](https://www.klytron.com)
 
-- 📝 I regularly write articles on [https://michael.laweitech.com/](https://michael.laweitech.com/)
+- 📝 I regularly write articles on [https://www.klytron.com](https://www.klytron.com)
 
 - 💬 Ask me about **full-stack development, IT infrastructure, or crafting secure, scalable software solutions.**
 
-- 📫 How to reach me **contact@michael.laweitech.com**
+- 📫 How to reach me **hi@klytron.com**
 
-- 📄 Know about my experiences [https://michael.laweitech.com/](https://michael.laweitech.com/)
+- 📄 Know about my experiences [https://www.klytron.com](https://www.klytron.com)
 
 <hr>
 
 ### Some of my Blog Articles
 <!-- BLOG-POST-LIST:START -->
-- [Powering Your Progress: Building Robust Solutions with Laravel](https://michael.laweitech.com/powering-your-progress-building-robust-solutions-with-laravel)
-- [Develop Faster, Collaborate Seamlessly: How I Supercharge Web Development with DDEV](https://michael.laweitech.com/develop-faster-collaborate-seamlessly-how-i-supercharge-web-development-with-ddev)
+- [Powering Your Progress: Building Robust Solutions with Laravel](https://www.klytron.com/powering-your-progress-building-robust-solutions-with-laravel)
+- [Develop Faster, Collaborate Seamlessly: How I Supercharge Web Development with DDEV](https://www.klytron.com/develop-faster-collaborate-seamlessly-how-i-supercharge-web-development-with-ddev)
 - [My Battle with Ransomware: How I Recovered 70% of My Data and What It Taught Me About Security
-](https://michael.laweitech.com/my-battle-with-ransomware-how-i-recovered-70-of-my-data-and-what-it-taught-me-about-security)
-- [Precision Deployment: How I Ensure Zero-Downtime Launches on Dedicated Servers & VPS](https://michael.laweitech.com/precision-deployment-how-i-ensure-zero-downtime-launches-on-dedicated-servers-vps)
-- [From Concept to Code: Bringing Your Vision to Life with Michael K. Laweh](https://michael.laweitech.com/from-concept-to-code-bringing-your-vision-to-life-with-michael-k-laweh)
+](https://www.klytron.com/my-battle-with-ransomware-how-i-recovered-70-of-my-data-and-what-it-taught-me-about-security)
+- [Precision Deployment: How I Ensure Zero-Downtime Launches on Dedicated Servers & VPS](https://www.klytron.com/precision-deployment-how-i-ensure-zero-downtime-launches-on-dedicated-servers-vps)
+- [From Concept to Code: Bringing Your Vision to Life with Michael K. Laweh](https://www.klytron.com/from-concept-to-code-bringing-your-vision-to-life-with-michael-k-laweh)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...click here for more blog articles](https://michael.laweitech.com/blog)
+▶ [...click here for more blog articles](https://www.klytron.com/blog)
 
 <hr>
 
@@ -89,7 +89,7 @@
 <hr>
 
 ### Some Fun Facts about me:
-As a **self-taught Senior IT Consultant & Full-Stack Developer**, I find my creative outlet in solving complex tech challenges, whether for a client or a personal project. When I'm not coding or consulting, you might find me exploring the outdoors or diving into a strategic research – always curious, always learning. I enjoy sharing insights and connecting with the tech community. Feel free to reach out via [My Website](https://michael.laweitech.com). if you want to chat about tech, business solutions, or even just say hello\!
+As a **self-taught Senior IT Consultant & Full-Stack Developer**, I find my creative outlet in solving complex tech challenges, whether for a client or a personal project. When I'm not coding or consulting, you might find me exploring the outdoors or diving into a strategic research – always curious, always learning. I enjoy sharing insights and connecting with the tech community. Feel free to reach out via [My Website](https://www.klytron.com). if you want to chat about tech, business solutions, or even just say hello\!
 
 <hr>
 
@@ -100,7 +100,7 @@ As a **self-taught Senior IT Consultant & Full-Stack Developer**, I find my crea
 
 ### :zap: Stackoverflow Stats ❤️ 
 
-[![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=4030034)](https://stackoverflow.com/users/4030034/scryba)
+[![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=4030034)](https://stackoverflow.com/users/4030034/klytron)
 
 <hr>
 
@@ -116,9 +116,9 @@ As a **self-taught Senior IT Consultant & Full-Stack Developer**, I find my crea
 <h2>🏆 Github Stats</h2>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=scryba&theme=radical&show_icons=true" alt="scryba's Github Stats" width="75%"/><br />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=scryba&theme=dark" width="75%"><br />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=scryba&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="75%">
+  <img src="https://github-readme-stats.vercel.app/api?username=klytron&theme=radical&show_icons=true" alt="Klytron's Github Stats" width="75%"/><br />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=klytron&theme=dark" width="75%"><br />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=klytron&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="75%">
 </p>
 
 <hr>
