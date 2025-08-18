@@ -45,13 +45,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/scryba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="scryba" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/scryba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="scryba" height="30" width="40" /></a>
 <a href="https://twitter.com/scryba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scryba" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/scryba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scryba" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4030034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4030034" height="30" width="40" /></a>
 <a href="https://fb.com/scryba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="scryba" height="30" width="40" /></a>
-<a href="https://instagram.com/scryba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="scryba" height="30" width="40" /></a>
-<a href="https://michael.laweitech.com/feed/posts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://michael.laweitech.com/feed/posts" height="30" width="40" /></a>
+<a href="https://instagram.com/scryba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="scryba" height="30" width="40" /></a> -->
+<a href="https://www.klytron.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_ui.png" alt="https://www.klytron.com/feed/posts" height="40" width="50" /></a>
+<a href="https://www.klytron.com/feed/posts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.klytron.com/feed/posts" height="30" width="40" /></a>
 </p>
 
 <hr>
